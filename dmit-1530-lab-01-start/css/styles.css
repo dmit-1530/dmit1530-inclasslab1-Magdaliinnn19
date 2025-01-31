@@ -12,3 +12,70 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+
+
+.large {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 60px;
+  color: #405b5b;
+}
+
+.btn {
+  color: #182222;
+  font-size: 22px;
+  border: 3px solid #405b5b;
+  padding: 21px 13px;
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+
+.flex-container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  min-width: 18%;
+  max-width: 48%;
+}
+
+.container {
+  max-width: 960px;
+  min-width: 360px;
+  margin: 0 auto;
+}
+
+main > img {
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-size: 42px;
+  color: #405b5b;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h4 {
+  font-size: 20px;
+  color: #e2dfe7;
+}
+
+footer {
+  background-color: #182222;
+  padding: 60px;
+  padding: 60px;
+  text-align: center;
+  gap: 1rem;
+}
+
+footer > p {
+  color: #e2dfe7;
+}
+
